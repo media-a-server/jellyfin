@@ -1,7 +1,7 @@
 Stream The Lastest And Old Movies And TV Shows In 1080p Using The Jellyfin App, Use Our Servers Today And Download The App From Your App Store Or Use Your Web Browser And Use The Purple Web App
 
 
-YouTube Video: https://www.youtube.com/watch?v=rURUsK7qtpc&t=1s
+🔶YouTube Video: https://www.youtube.com/watch?v=rURUsK7qtpc&t=1s
 
 - 24/7 Access To Our Purple Server
 - Access To 1x Purple Server
@@ -21,7 +21,7 @@ YouTube Video: https://www.youtube.com/watch?v=rURUsK7qtpc&t=1s
 
 
 
-Our Website Link: https://a-network.ca/cart.php?gid=2
+🔶Our Website Link: https://a-network.ca/cart.php?gid=2
 
 
 
