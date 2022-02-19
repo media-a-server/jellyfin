@@ -23,9 +23,22 @@ Stream The Lastest And Old Movies And TV Shows In 1080p Using The Jellyfin App, 
 
 🔶Our Website Link: https://a-network.ca/cart.php?gid=2
 
+__________________________________________________________________________________________________________________________________
 
+![This is an image](https://github.com/media-a-server/jellyfin/blob/main/1.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/jellyfin/blob/main/2.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/jellyfin/blob/main/3.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/jellyfin/blob/main/4.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/jellyfin/blob/main/5.jpg?raw=true)
 
+__________________________________________________________________________________________________________________________________
 
+Android TV App: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_CA&gl=US
+__________________________________________________________________________________________________________________________________
+Android App: https://play.google.com/store/apps/details?id=org.jellyfin.mobile&hl=en_CA&gl=US
+__________________________________________________________________________________________________________________________________
+iOS App: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
 
+__________________________________________________________________________________________________________________________________
 
 #emby #jellyfin #plex #iptv #freeiptv @emby @jellyfin @freeiptv @iptv
