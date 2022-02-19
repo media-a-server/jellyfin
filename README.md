@@ -41,4 +41,7 @@ iOS App: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
 
 __________________________________________________________________________________________________________________________________
 
+Server IP & Port: *IP Address: https://a-network.ca/purplevod  *Port: Blank 
+__________________________________________________________________________________________________________________________________
+
 #emby #jellyfin #plex #iptv #freeiptv @emby @jellyfin @freeiptv @iptv
