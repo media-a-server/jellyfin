@@ -20,8 +20,8 @@ Stream The Lastest And Old Movies And TV Shows In 1080p Using The Jellyfin App, 
 
 
 
-
-🔶Our Website Link: https://a-network.ca/cart.php?gid=2
+__________________________________________________________________________________________________________________________________
+>🔶Our Website Link: https://a-network.ca/cart.php?gid=2
 
 __________________________________________________________________________________________________________________________________
 
@@ -33,11 +33,11 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________
 
-Android TV App: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_CA&gl=US
+>Android TV App: https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_CA&gl=US
 __________________________________________________________________________________________________________________________________
-Android App: https://play.google.com/store/apps/details?id=org.jellyfin.mobile&hl=en_CA&gl=US
+>Android App: https://play.google.com/store/apps/details?id=org.jellyfin.mobile&hl=en_CA&gl=US
 __________________________________________________________________________________________________________________________________
-iOS App: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
+>iOS App: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
 
 __________________________________________________________________________________________________________________________________
 
